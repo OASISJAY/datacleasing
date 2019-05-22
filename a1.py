@@ -1,8 +1,4 @@
-'''
-COMP9321 Assignment One Code Template 2019T1
-Name: Shuai JI
-Student ID: z5189630
-'''
+
 import csv
 import sys
 import os.path
